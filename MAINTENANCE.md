@@ -4,16 +4,11 @@
 
 ## Design
 
-The profile uses a black-and-white palette with neutral gray details. The header has light and dark SVG variants. Project covers are local SVGs with live text descriptions and links in the README. There are no external statistics widgets or scheduled workflows to maintain.
+Black and white only. Typography, whitespace, and fine separator lines provide structure. Each project has a small line illustration describing its purpose; these are illustrations, not product screenshots. There are no cards, grids, badges, decorative orbits, colorful screenshots, or external image widgets.
 
-Keep NoMoreIDE and JobJourney as the two featured products. The next four projects show agent orchestration, native macOS, Go tooling, and creative 3D work. Project descriptions were checked against the public repositories on 9 September 2026. Brainctl is explicitly described as having moved into NoMoreIDE.
+Every SVG has light and dark variants, with compact versions for narrow screens. All pictures have descriptive alt text and repository links. Artwork is stored locally, uses simple paths and system fonts, and has no scripts, remote resources, or animation. The header and six project rows use the same width and aligned text positions.
 
-Screenshots are copies of the author's existing public project artwork:
-
-- `assets/nomoreide.png`: `Rorogogogo/nomoreide`, `assets/screenshots/product-tour.png`.
-- `assets/jobjourney.png`: `Rorogogogo/Jobjourney-extention`, `chrome-extension/public/Global_dasboard.png`.
-
-Refresh these copies when the products change. SVGs use simple paths and system fonts; no scripts, embedded HTML, remote fonts, or animation.
+Keep NoMoreIDE and JobJourney first. The next four projects show agent orchestration, native macOS, Go tooling, and creative 3D work. Brainctl is described as having moved into NoMoreIDE.
 
 ## Suggested GitHub pins
 

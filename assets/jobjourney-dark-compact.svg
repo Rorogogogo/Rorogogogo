@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="JobJourney Assistant — Collect opportunities. Keep your job search in order.">
+<rect width="560" height="180" fill="#000000"/><path d="M0 1H560" stroke="#ffffff"/>
+<text x="0" y="53" fill="#ffffff" font-family="Menlo,monospace" font-size="13">02</text>
+<text x="40" y="57" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="25" font-weight="500" letter-spacing="-0.5">JobJourney Assistant</text>
+<text x="40" y="96" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="19">Collect opportunities. Keep your job search in</text><text x="40" y="121" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="19">order.</text><text x="40" y="158" fill="#ffffff" font-family="Menlo,monospace" font-size="11">TYPESCRIPT / REACT / BROWSER EXTENSION</text>
+<g transform="translate(487 20) scale(0.4)" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="19" y="7" width="111" height="105" rx="2"/><path d="M19 30H130M32 20H38M44 20H50M62 51H114M62 75H104M62 98H111M32 49L38 55L48 44M32 73L38 79L48 68"/><rect x="33" y="93" width="10" height="10"/></g></svg>

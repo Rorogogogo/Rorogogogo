@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="170" viewBox="0 0 1120 170" role="img" aria-label="Claude Cracks the Whip — Delegate to coding agents. Review what comes back.">
+<rect width="1120" height="170" fill="#000000"/>
+<path d="M0 1H1120" stroke="#ffffff" stroke-width="1"/>
+<text x="0" y="53" fill="#ffffff" font-family="Menlo,monospace" font-size="16">03</text>
+<text x="64" y="58" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="32" font-weight="500" letter-spacing="-0.6">Claude Cracks the Whip</text>
+<text x="65" y="94" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="20">Delegate to coding agents. Review what comes back.</text>
+<text x="65" y="131" fill="#ffffff" font-family="Menlo,monospace" font-size="12" letter-spacing="0.7">AGENT ORCHESTRATION / CLAUDE CODE</text>
+<g transform="translate(916 23)" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="55" y="9" width="44" height="27" rx="2"/><path d="M77 36V62M22 62H132M22 62V82M77 62V82M132 62V82"/><rect x="7" y="82" width="30" height="27" rx="2"/><rect x="62" y="82" width="30" height="27" rx="2"/><rect x="117" y="82" width="30" height="27" rx="2"/></g>
+</svg>
