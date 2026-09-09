@@ -13,10 +13,27 @@ I build software that makes work a little simpler—from AI developer tools to s
 
 ### Selected projects
 
-| Project | Purpose |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Rorogogogo/nomoreide">NoMoreIDE</a></h3>
+<a href="https://github.com/Rorogogogo/nomoreide"><img src="./assets/nomoreide-preview.svg" width="100%" alt="Black-and-white preview of the real NoMoreIDE dashboard: Git review, services, and the agent terminal" /></a>
+<p>A shared workbench for services, Git, databases, and coding agents.</p>
+<sub>Rust · TypeScript · Tauri</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Rorogogogo/Jobjourney-extention">JobJourney Assistant</a></h3>
+<a href="https://github.com/Rorogogogo/Jobjourney-extention"><img src="./assets/jobjourney-preview.svg" width="100%" alt="Black-and-white preview of the real JobJourney dashboard for organizing jobs and applications" /></a>
+<p>A browser companion for collecting and organizing job opportunities.</p>
+<sub>TypeScript · React</sub>
+</td>
+</tr>
+</table>
+
+<br />
+
+| More projects | Purpose |
 | :--- | :--- |
-| **[NoMoreIDE](https://github.com/Rorogogogo/nomoreide)** | A shared workbench for services, Git, databases, and coding agents. |
-| **[JobJourney Assistant](https://github.com/Rorogogogo/Jobjourney-extention)** | A browser companion for collecting and organizing job opportunities. |
 | **[Claude Cracks the Whip](https://github.com/Rorogogogo/claude-cracks-the-whip)** | Delegate tasks to coding agents, review their work, and coordinate fixes. |
 | **[Notchy](https://github.com/Rorogogogo/Notchy)** | Agent activity and usage, quietly visible in your macOS notch. |
 | **[Baton Pass](https://github.com/Rorogogogo/baton-pass)** | Carry an agent’s progress into a fresh session before context runs out. |
