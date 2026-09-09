@@ -4,11 +4,11 @@
 
 ## Design
 
-Black and white only. Typography, whitespace, and fine separator lines provide structure. Each project has a small line illustration describing its purpose; these are illustrations, not product screenshots. There are no cards, grids, badges, decorative orbits, colorful screenshots, or external image widgets.
+An editorial layout: one SVG masthead, a short introduction, and six projects in a native Markdown table. The masthead combines serif typography with one fine-line abstract form. All artwork is monochrome. Project names and descriptions are live text so they stay readable, selectable, and searchable.
 
-Every SVG has light and dark variants, with compact versions for narrow screens. All pictures have descriptive alt text and repository links. Artwork is stored locally, uses simple paths and system fonts, and has no scripts, remote resources, or animation. The header and six project rows use the same width and aligned text positions.
+Only four artwork files are needed: light/dark covers and their compact phone versions. Each is a self-contained SVG with accessible text, no remote resources, and no scripts or animation. The README uses picture sources to select the appropriate version.
 
-Keep NoMoreIDE and JobJourney first. The next four projects show agent orchestration, native macOS, Go tooling, and creative 3D work. Brainctl is described as having moved into NoMoreIDE.
+The selected projects are NoMoreIDE, JobJourney Assistant, Claude Cracks the Whip, Notchy, Baton Pass, and Breath of the Builder. Keep descriptions short and links direct. Avoid adding badges, metrics dashboards, repeated banners, or more decorative graphics.
 
 ## Suggested GitHub pins
 

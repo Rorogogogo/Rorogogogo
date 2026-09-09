@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="170" viewBox="0 0 1120 170" role="img" aria-label="NoMoreIDE — A shared workbench for you and your coding agents.">
-<rect width="1120" height="170" fill="#000000"/>
-<path d="M0 1H1120" stroke="#ffffff" stroke-width="1"/>
-<text x="0" y="53" fill="#ffffff" font-family="Menlo,monospace" font-size="16">01</text>
-<text x="64" y="58" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="32" font-weight="500" letter-spacing="-0.6">NoMoreIDE</text>
-<text x="65" y="94" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="20">A shared workbench for you and your coding agents.</text>
-<text x="65" y="131" fill="#ffffff" font-family="Menlo,monospace" font-size="12" letter-spacing="0.7">RUST / TYPESCRIPT / TAURI</text>
-<g transform="translate(916 23)" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="140" height="88" rx="2"/><path d="M8 28H148M45 28V96M58 45H102M58 59H128M58 73H112M65 112H92M78 96V112"/><path d="M20 18H23M29 18H32"/></g>
-</svg>

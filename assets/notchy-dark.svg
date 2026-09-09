@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="170" viewBox="0 0 1120 170" role="img" aria-label="Notchy — Know when your agent is working or needs you.">
-<rect width="1120" height="170" fill="#000000"/>
-<path d="M0 1H1120" stroke="#ffffff" stroke-width="1"/>
-<text x="0" y="53" fill="#ffffff" font-family="Menlo,monospace" font-size="16">04</text>
-<text x="64" y="58" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="32" font-weight="500" letter-spacing="-0.6">Notchy</text>
-<text x="65" y="94" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="20">Know when your agent is working or needs you.</text>
-<text x="65" y="131" fill="#ffffff" font-family="Menlo,monospace" font-size="12" letter-spacing="0.7">SWIFT / NATIVE MACOS</text>
-<g transform="translate(916 23)" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 104V14H149V104M5 14H49V33Q49 40 56 40H98Q105 40 105 33V14H149"/><circle cx="77" cy="27" r="3"/><path d="M20 117H134M28 75H52M64 75H88M100 75H124"/></g>
-</svg>

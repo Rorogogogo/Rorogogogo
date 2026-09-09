@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="Breath of the Builder — A portfolio island. Take the scenic route.">
-<rect width="560" height="180" fill="#000000"/><path d="M0 1H560" stroke="#ffffff"/>
-<text x="0" y="53" fill="#ffffff" font-family="Menlo,monospace" font-size="13">06</text>
-<text x="40" y="57" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="25" font-weight="500" letter-spacing="-0.5">Breath of the Builder</text>
-<text x="40" y="96" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="19">A portfolio island. Take the scenic route.</text><text x="40" y="158" fill="#ffffff" font-family="Menlo,monospace" font-size="11">TYPESCRIPT / THREE.JS</text>
-<g transform="translate(487 20) scale(0.4)" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 93H150M18 93L63 28L91 70L112 47L142 93M48 50L62 59L72 43M10 107H58M80 107H143M39 118H109"/><circle cx="123" cy="20" r="9"/></g></svg>
