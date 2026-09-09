@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img src="./assets/header-dark.svg" width="100%" alt="Robert / Rorogogogo — Sydney, Australia. Ideas into tools. Tools into momentum." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=monochrome" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=monochrome" />
+  <img src="./assets/header-dark.svg?v=monochrome" width="100%" alt="Robert / Rorogogogo — Sydney, Australia. Ideas into tools. Tools into momentum." />
 </picture>
 
 <p align="center">
@@ -54,13 +54,13 @@ I build tools for the way I want to work: fewer repetitive steps, better interfa
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Rorogogogo/claude-cracks-the-whip"><img src="./assets/whip.svg" width="100%" alt="Claude Cracks the Whip — a foreman for your AI agents" /></a>
+<a href="https://github.com/Rorogogogo/claude-cracks-the-whip"><img src="./assets/whip.svg?v=monochrome" width="100%" alt="Claude Cracks the Whip — a foreman for your AI agents" /></a>
 <p>Let Claude Code delegate tasks to other coding agents, review their work, and send back corrections.</p>
 <p><code>Agent orchestration</code> <code>Claude Code skill</code></p>
 <p><a href="https://github.com/Rorogogogo/claude-cracks-the-whip"><strong>Meet the foreman ↗</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Rorogogogo/Notchy"><img src="./assets/notchy.svg" width="100%" alt="Notchy — your agents, at a glance" /></a>
+<a href="https://github.com/Rorogogogo/Notchy"><img src="./assets/notchy.svg?v=monochrome" width="100%" alt="Notchy — your agents, at a glance" /></a>
 <p>A tiny native macOS notch indicator for agent activity and usage. Know when your agent needs you.</p>
 <p><code>Swift</code> <code>macOS</code> <code>Native UI</code></p>
 <p><a href="https://github.com/Rorogogogo/Notchy"><strong>Take a look ↗</strong></a></p>
@@ -68,13 +68,13 @@ I build tools for the way I want to work: fewer repetitive steps, better interfa
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Rorogogogo/baton-pass"><img src="./assets/baton.svg" width="100%" alt="Baton Pass — new context, same momentum" /></a>
+<a href="https://github.com/Rorogogogo/baton-pass"><img src="./assets/baton.svg?v=monochrome" width="100%" alt="Baton Pass — new context, same momentum" /></a>
 <p>Hand a long-running agent session to a fresh one before context or usage limits interrupt the work.</p>
 <p><code>Go</code> <code>Agent continuity</code></p>
 <p><a href="https://github.com/Rorogogogo/baton-pass"><strong>Pass the baton ↗</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Rorogogogo/breath-of-the-builder"><img src="./assets/island.svg" width="100%" alt="Breath of the Builder — a portfolio you can explore" /></a>
+<a href="https://github.com/Rorogogogo/breath-of-the-builder"><img src="./assets/island.svg?v=monochrome" width="100%" alt="Breath of the Builder — a portfolio you can explore" /></a>
 <p>A Zelda-inspired 3D portfolio island. Walk around, find project shrines, and take the scenic route through my work.</p>
 <p><code>TypeScript</code> <code>Three.js</code> <code>Creative coding</code></p>
 <p><a href="https://breath-of-the-builder.vercel.app"><strong>Explore the island ↗</strong></a> · <a href="https://github.com/Rorogogogo/breath-of-the-builder">Source</a></p>

@@ -4,7 +4,7 @@
 
 ## Design
 
-The header has light and dark SVG variants. Project covers are local SVGs with live text descriptions and links in the README. There are no external statistics widgets or scheduled workflows to maintain.
+The profile uses a black-and-white palette with neutral gray details. The header has light and dark SVG variants. Project covers are local SVGs with live text descriptions and links in the README. There are no external statistics widgets or scheduled workflows to maintain.
 
 Keep NoMoreIDE and JobJourney as the two featured products. The next four projects show agent orchestration, native macOS, Go tooling, and creative 3D work. Project descriptions were checked against the public repositories on 9 September 2026. Brainctl is explicitly described as having moved into NoMoreIDE.
 
